@@ -1,0 +1,13 @@
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\bin\Debug\netcoreapp3.0\EmailMicroservice.exe
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\obj\Debug\netcoreapp3.0\EmailMicroservice.csprojAssemblyReference.cache
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\obj\Debug\netcoreapp3.0\EmailMicroservice.AssemblyInfoInputs.cache
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\obj\Debug\netcoreapp3.0\EmailMicroservice.AssemblyInfo.cs
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\bin\Debug\netcoreapp3.0\EmailMicroservice.deps.json
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\bin\Debug\netcoreapp3.0\EmailMicroservice.runtimeconfig.json
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\bin\Debug\netcoreapp3.0\EmailMicroservice.runtimeconfig.dev.json
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\bin\Debug\netcoreapp3.0\EmailMicroservice.dll
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\bin\Debug\netcoreapp3.0\EmailMicroservice.pdb
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\obj\Debug\netcoreapp3.0\EmailMicroservice.csproj.CopyComplete
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\obj\Debug\netcoreapp3.0\EmailMicroservice.dll
+D:\Stuff\Cours\Genie Logiciel\Project\EmailMicroservice\obj\Debug\netcoreapp3.0\EmailMicroservice.pdb
